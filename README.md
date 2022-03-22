@@ -3,7 +3,7 @@ Webpack Quick Setup
 
 ## This project for quick setup for your starter project
 
-[You can watch video](https://studio.youtube.com/video/tD33Ve6rxAU/edit)
+[You can watch video](https://www.youtube.com/watch?v=tD33Ve6rxAU&ab_channel=izleveogren)
 
 ## Project setup
 ```
